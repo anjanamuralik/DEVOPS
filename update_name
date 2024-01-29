@@ -1,0 +1,4 @@
+UPDATE devops
+SET firstname = 'Althaf', lastname = 'H'
+WHERE sno = 1;
+COMMIT;
